@@ -9,7 +9,7 @@ need to send me the GitHub address of your copy. (If you find a typo in the
 instructions, then you could fork this repository to fix that, but don't put
 answers to the evaluation in a linked fork!)
 
-You evaluation should contain the following:
+Your evaluation should contain the following:
 
 * At least one of the projects (1 or 2) completed
 * Tests for your new additions
