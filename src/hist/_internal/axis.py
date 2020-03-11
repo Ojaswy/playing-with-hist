@@ -7,7 +7,7 @@ class Regular(bha.Regular):
         bins,
         start,
         stop,
-        *,
+        *, 
         name=None,
         underflow=True,
         overflow=True, 
