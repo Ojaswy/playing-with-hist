@@ -10,7 +10,7 @@ class Regular(bha.Regular):
         *,
         name=None,
         underflow=True,
-        overflow=True,
+        overflow=True, 
         growth=False,
         circular=False,
         transform=None
