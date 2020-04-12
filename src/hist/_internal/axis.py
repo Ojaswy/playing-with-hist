@@ -4,7 +4,7 @@ import boost_histogram.axis as bha
 class Regular(bha.Regular):
     def __init__(
         self,
-        bins,
+        bins, 
         start,
         stop,
         *, 
